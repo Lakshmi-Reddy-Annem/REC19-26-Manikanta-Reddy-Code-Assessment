@@ -1,0 +1,7 @@
+index/bm25_index.pkl
+index/chunks.json
+evaluation_results.json
+data/*.pdf
+__pycache__/
+*.pyc
+.env
